@@ -31,6 +31,11 @@ body{
     align-items: center;
 }
 
+a {
+    text-decoration: none;
+    color: #e3b062;
+}
+
 /* banner */
 .banner {
     /* border: solid 3px pink; */
@@ -69,9 +74,9 @@ body{
     width: 170px;
 }
 
-.social .container {
-    /* border: solid 3px pink; */
-}
+/* .social .container {
+    border: solid 3px pink;
+} */
 
 .social .container .boxes {
     /* border: solid 3px orange; */
@@ -102,3 +107,9 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.header #aqui {
+    font-weight: 1000;
+    color: #23b9cd;
+}
+
